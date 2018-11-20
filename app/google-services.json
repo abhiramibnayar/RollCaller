@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "258892084318",
+    "firebase_url": "https://rollcaller-ca7af.firebaseio.com",
+    "project_id": "rollcaller-ca7af",
+    "storage_bucket": "rollcaller-ca7af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258892084318:android:d04b2c6ab9876c18",
+        "android_client_info": {
+          "package_name": "com.example.abhirami.rollcaller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258892084318-8e6m2ivgsejvbu9om41n5p94pctn8du1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abhirami.rollcaller",
+            "certificate_hash": "14ad6ebed89d595e4711097e07afaa317aa071d8"
+          }
+        },
+        {
+          "client_id": "258892084318-l5q3o3h122quhib99mol3p126p02lsq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH-z5f67S_2f6I99iihPPE1A4qkVaUBKM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258892084318-l5q3o3h122quhib99mol3p126p02lsq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
